@@ -1,0 +1,1163 @@
+{
+	"anatasia_battle_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:a/anatasia_battle_intro",
+				"stream":true
+			}
+		]
+	},
+	"anatasia_battle": {
+		"sounds":[
+			{
+				"name":"ssbrc:a/anatasia_battle",
+				"stream":true
+			}
+		]
+	},
+	"aquarius_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:a/aquarius_intro",
+				"stream":true
+			}
+		]
+	},
+	"aquarius": {
+		"sounds":[
+			{
+				"name":"ssbrc:a/aquarius",
+				"stream":true
+			}
+		]
+	},
+	"aquos_arena": {
+		"sounds":[
+			{
+				"name":"ssbrc:a/aquos_arena",
+				"stream":true
+			}
+		]
+	},
+	"area_6_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:a/area_6_intro",
+				"stream":true
+			}
+		]
+	},
+	"area_6": {
+		"sounds":[
+			{
+				"name":"ssbrc:a/area_6",
+				"stream":true
+			}
+		]
+	},
+	"axe_to_grind_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:a/axe_to_grind_intro",
+				"stream":true
+			}
+		]
+	},
+	"axe_to_grind": {
+		"sounds":[
+			{
+				"name":"ssbrc:a/axe_to_grind",
+				"stream":true
+			}
+		]
+	},
+	"ballad_of_the_goddess_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:b/ballad_of_the_goddess_intro",
+				"stream":true
+			}
+		]
+	},
+	"ballad_of_the_goddess": {
+		"sounds":[
+			{
+				"name":"ssbrc:b/ballad_of_the_goddess",
+				"stream":true
+			}
+		]
+	},
+	"battle_for_glory_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:b/battle_for_glory_intro",
+				"stream":true
+			}
+		]
+	},
+	"battle_for_glory": {
+		"sounds":[
+			{
+				"name":"ssbrc:b/battle_for_glory",
+				"stream":true
+			}
+		]
+	},
+	"battle_lets_go_pikachu_eevee_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:b/battle_lets_go_pikachu_eevee_intro",
+				"stream":true
+			}
+		]
+	},
+	"battle_lets_go_pikachu_eevee": {
+		"sounds":[
+			{
+				"name":"ssbrc:b/battle_lets_go_pikachu_eevee",
+				"stream":true
+			}
+		]
+	},
+	"battle_on_the_big_bridge_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:b/battle_on_the_big_bridge_intro",
+				"stream":true
+			}
+		]
+	},
+	"battle_on_the_big_bridge": {
+		"sounds":[
+			{
+				"name":"ssbrc:b/battle_on_the_big_bridge",
+				"stream":true
+			}
+		]
+	},
+	"bloody_tears_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:b/bloody_tears_intro",
+				"stream":true
+			}
+		]
+	},
+	"bloody_tears": {
+		"sounds":[
+			{
+				"name":"ssbrc:b/bloody_tears",
+				"stream":true
+			}
+		]
+	},
+	"bob_omb_battlefield_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:b/bob_omb_battlefield_intro",
+				"stream":true
+			}
+		]
+	},
+	"bob_omb_battlefield": {
+		"sounds":[
+			{
+				"name":"ssbrc:b/bob_omb_battlefield",
+				"stream":true
+			}
+		]
+	},
+	"bowsers_lava_lair_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:b/bowsers_lava_lair_intro",
+				"stream":true
+			}
+		]
+	},
+	"bowsers_lava_lair": {
+		"sounds":[
+			{
+				"name":"ssbrc:b/bowsers_lava_lair",
+				"stream":true
+			}
+		]
+	},
+	"brain_cleaner_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:b/brain_cleaner_intro",
+				"stream":true
+			}
+		]
+	},
+	"brain_cleaner": {
+		"sounds":[
+			{
+				"name":"ssbrc:b/brain_cleaner",
+				"stream":true
+			}
+		]
+	},
+	"brinstar_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:b/brinstar_intro",
+				"stream":true
+			}
+		]
+	},
+	"brinstar": {
+		"sounds":[
+			{
+				"name":"ssbrc:b/brinstar",
+				"stream":true
+			}
+		]
+	},
+	"chase_giga_bowser_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:c/chase_giga_bowser_intro",
+				"stream":true
+			}
+		]
+	},
+	"chase_giga_bowser": {
+		"sounds":[
+			{
+				"name":"ssbrc:c/chase_giga_bowser",
+				"stream":true
+			}
+		]
+	},
+	"checker_knights_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:c/checker_knights_intro",
+				"stream":true
+			}
+		]
+	},
+	"checker_knights": {
+		"sounds":[
+			{
+				"name":"ssbrc:c/checker_knights",
+				"stream":true
+			}
+		]
+	},
+	"cognitive_dissonance_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:c/cognitive_dissonance_intro",
+				"stream":true
+			}
+		]
+	},
+	"cognitive_dissonance": {
+		"sounds":[
+			{
+				"name":"ssbrc:c/cognitive_dissonance",
+				"stream":true
+			}
+		]
+	},
+	"dark_hallways_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:d/dark_hallways_intro",
+				"stream":true
+			}
+		]
+	},
+	"dark_hallways": {
+		"sounds":[
+			{
+				"name":"ssbrc:d/dark_hallways",
+				"stream":true
+			}
+		]
+	},
+	"dark_pits_theme_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:d/dark_pits_theme_intro",
+				"stream":true
+			}
+		]
+	},
+	"dark_pits_theme": {
+		"sounds":[
+			{
+				"name":"ssbrc:d/dark_pits_theme",
+				"stream":true
+			}
+		]
+	},
+	"destroyed_skyworld_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:d/destroyed_skyworld_intro",
+				"stream":true
+			}
+		]
+	},
+	"destroyed_skyworld": {
+		"sounds":[
+			{
+				"name":"ssbrc:d/destroyed_skyworld",
+				"stream":true
+			}
+		]
+	},
+	"dialga_and_palkia_battle_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:d/dialga_and_palkia_battle_intro",
+				"stream":true
+			}
+		]
+	},
+	"dialga_and_palkia_battle": {
+		"sounds":[
+			{
+				"name":"ssbrc:d/dialga_and_palkia_battle",
+				"stream":true
+			}
+		]
+	},
+	"draconus_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:d/draconus_intro",
+				"stream":true
+			}
+		]
+	},
+	"draconus": {
+		"sounds":[
+			{
+				"name":"ssbrc:d/draconus",
+				"stream":true
+			}
+		]
+	},
+	"eight_melodies_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:e/eight_melodies_intro",
+				"stream":true
+			}
+		]
+	},
+	"eight_melodies": {
+		"sounds":[
+			{
+				"name":"ssbrc:e/eight_melodies",
+				"stream":true
+			}
+		]
+	},
+	"encounter_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:e/encounter_intro",
+				"stream":true
+			}
+		]
+	},
+	"encounter": {
+		"sounds":[
+			{
+				"name":"ssbrc:e/encounter",
+				"stream":true
+			}
+		]
+	},
+	"final_destination_melee_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:f/final_destination_melee_intro",
+				"stream":true
+			}
+		]
+	},
+	"final_destination_melee": {
+		"sounds":[
+			{
+				"name":"ssbrc:f/final_destination_melee",
+				"stream":true
+			}
+		]
+	},
+	"flat_zone_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:f/flat_zone_intro",
+				"stream":true
+			}
+		]
+	},
+	"flat_zone": {
+		"sounds":[
+			{
+				"name":"ssbrc:f/flat_zone",
+				"stream":true
+			}
+		]
+	},
+	"flat_zone_2_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:f/flat_zone_2_intro",
+				"stream":true
+			}
+		]
+	},
+	"flat_zone_2": {
+		"sounds":[
+			{
+				"name":"ssbrc:f/flat_zone_2",
+				"stream":true
+			}
+		]
+	},
+	"forest_of_hope_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:f/forest_of_hope_intro",
+				"stream":true
+			}
+		]
+	},
+	"forest_of_hope": {
+		"sounds":[
+			{
+				"name":"ssbrc:f/forest_of_hope",
+				"stream":true
+			}
+		]
+	},
+	"garden_of_hope_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:g/garden_of_hope_intro",
+				"stream":true
+			}
+		]
+	},
+	"garden_of_hope": {
+		"sounds":[
+			{
+				"name":"ssbrc:g/garden_of_hope",
+				"stream":true
+			}
+		]
+	},
+	"hitting_close_to_home": {
+		"sounds":[
+			{
+				"name":"ssbrc:h/hitting_close_to_home",
+				"stream":true
+			}
+		]
+	},
+	"homecoming_hijinx_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:h/homecoming_hijinx_intro",
+				"stream":true
+			}
+		]
+	},
+	"homecoming_hijinx": {
+		"sounds":[
+			{
+				"name":"ssbrc:h/homecoming_hijinx",
+				"stream":true
+			}
+		]
+	},
+	"humoresque_of_a_little_dog_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:h/humoresque_of_a_little_dog_intro",
+				"stream":true
+			}
+		]
+	},
+	"humoresque_of_a_little_dog": {
+		"sounds":[
+			{
+				"name":"ssbrc:h/humoresque_of_a_little_dog",
+				"stream":true
+			}
+		]
+	},
+	"hyrule_castle_theme_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:h/hyrule_castle_theme_intro",
+				"stream":true
+			}
+		]
+	},
+	"hyrule_castle_theme": {
+		"sounds":[
+			{
+				"name":"ssbrc:h/hyrule_castle_theme",
+				"stream":true
+			}
+		]
+	},
+	"ice_climber_melee_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:i/ice_climber_melee_intro",
+				"stream":true
+			}
+		]
+	},
+	"ice_climber_melee": {
+		"sounds":[
+			{
+				"name":"ssbrc:i/ice_climber_melee",
+				"stream":true
+			}
+		]
+	},
+	"ice_climber_retro": {
+		"sounds":[
+			{
+				"name":"ssbrc:i/ice_climber_retro",
+				"stream":true
+			}
+		]
+	},
+	"jungle_japes_melee_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:j/jungle_japes_melee_intro",
+				"stream":true
+			}
+		]
+	},
+	"jungle_japes_melee": {
+		"sounds":[
+			{
+				"name":"ssbrc:j/jungle_japes_melee",
+				"stream":true
+			}
+		]
+	},
+	"jungle_swing": {
+		"sounds":[
+			{
+				"name":"ssbrc:j/jungle_swing",
+				"stream":true
+			}
+		]
+	},
+	"kass_theme_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:k/kass_theme_intro",
+				"stream":true
+			}
+		]
+	},
+	"kass_theme": {
+		"sounds":[
+			{
+				"name":"ssbrc:k/kass_theme",
+				"stream":true
+			}
+		]
+	},
+	"legend_of_zelda_main_theme_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:l/legend_of_zelda_main_theme_intro",
+				"stream":true
+			}
+		]
+	},
+	"legend_of_zelda_main_theme": {
+		"sounds":[
+			{
+				"name":"ssbrc:l/legend_of_zelda_main_theme",
+				"stream":true
+			}
+		]
+	},
+	"light_in_starless_sky_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:l/light_in_starless_sky_intro",
+				"stream":true
+			}
+		]
+	},
+	"light_in_starless_sky": {
+		"sounds":[
+			{
+				"name":"ssbrc:l/light_in_starless_sky",
+				"stream":true
+			}
+		]
+	},
+	"luigis_mansion_theme_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:l/luigis_mansion_theme_intro",
+				"stream":true
+			}
+		]
+	},
+	"luigis_mansion_theme": {
+		"sounds":[
+			{
+				"name":"ssbrc:l/luigis_mansion_theme",
+				"stream":true
+			}
+		]
+	},
+	"magmoor_caverns_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:m/magmoor_caverns_intro",
+				"stream":true
+			}
+		]
+	},
+	"magmoor_caverns": {
+		"sounds":[
+			{
+				"name":"ssbrc:m/magmoor_caverns",
+				"stream":true
+			}
+		]
+	},
+	"mario_paint_medley_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:m/mario_paint_medley_intro",
+				"stream":true
+			}
+		]
+	},
+	"mario_paint_medley": {
+		"sounds":[
+			{
+				"name":"ssbrc:m/mario_paint_medley",
+				"stream":true
+			}
+		]
+	},
+	"mass_destruction_dual_mix_part_1": {
+		"sounds":[
+			{
+				"name":"ssbrc:m/mass_destruction_dual_mix_part_1",
+				"stream":true
+			}
+		]
+	},
+	"mass_destruction_dual_mix_part_2": {
+		"sounds":[
+			{
+				"name":"ssbrc:m/mass_destruction_dual_mix_part_2",
+				"stream":true
+			}
+		]
+	},
+	"master_hand_fight_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:m/master_hand_fight_intro",
+				"stream":true
+			}
+		]
+	},
+	"master_hand_fight": {
+		"sounds":[
+			{
+				"name":"ssbrc:m/master_hand_fight",
+				"stream":true
+			}
+		]
+	},
+	"mega_man_2_medley_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:m/mega_man_2_medley_intro",
+				"stream":true
+			}
+		]
+	},
+	"mega_man_2_medley": {
+		"sounds":[
+			{
+				"name":"ssbrc:m/mega_man_2_medley",
+				"stream":true
+			}
+		]
+	},
+	"mega_man_4_medley_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:m/mega_man_4_medley_intro",
+				"stream":true
+			}
+		]
+	},
+	"mega_man_4_medley": {
+		"sounds":[
+			{
+				"name":"ssbrc:m/mega_man_4_medley",
+				"stream":true
+			}
+		]
+	},
+	"metal_gear_online_3_main_theme": {
+		"sounds":[
+			{
+				"name":"ssbrc:m/metal_gear_online_3_main_theme",
+				"stream":true
+			}
+		]
+	},
+	"mr_saturn_theme_z": {
+		"sounds":[
+			{
+				"name":"ssbrc:m/mr_saturn_theme_z",
+				"stream":true
+			}
+		]
+	},
+	"nintendo_land_medley": {
+		"sounds":[
+			{
+				"name":"ssbrc:n/nintendo_land_medley",
+				"stream":true
+			}
+		]
+	},
+	"pac_man_club_mix_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:p/pac_man_club_mix_intro",
+				"stream":true
+			}
+		]
+	},
+	"pac_man_club_mix": {
+		"sounds":[
+			{
+				"name":"ssbrc:p/pac_man_club_mix",
+				"stream":true
+			}
+		]
+	},
+	"pac_rainbow": {
+		"sounds":[
+			{
+				"name":"ssbrc:p/pac_rainbow",
+				"stream":true
+			}
+		]
+	},
+	"planet_popstar_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:p/planet_popstar_intro",
+				"stream":true
+			}
+		]
+	},
+	"planet_popstar": {
+		"sounds":[
+			{
+				"name":"ssbrc:p/planet_popstar",
+				"stream":true
+			}
+		]
+	},
+	"pokemon_gold_pokemon_silver_medley_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:p/pokemon_gold_pokemon_silver_medley_intro",
+				"stream":true
+			}
+		]
+	},
+	"pokemon_gold_pokemon_silver_medley": {
+		"sounds":[
+			{
+				"name":"ssbrc:p/pokemon_gold_pokemon_silver_medley",
+				"stream":true
+			}
+		]
+	},
+	"reach_out_to_the_truth_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:r/reach_out_to_the_truth_intro",
+				"stream":true
+			}
+		]
+	},
+	"reach_out_to_the_truth": {
+		"sounds":[
+			{
+				"name":"ssbrc:r/reach_out_to_the_truth",
+				"stream":true
+			}
+		]
+	},
+	"rescue_operation_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:r/rescue_operation_intro",
+				"stream":true
+			}
+		]
+	},
+	"rescue_operation": {
+		"sounds":[
+			{
+				"name":"ssbrc:r/rescue_operation",
+				"stream":true
+			}
+		]
+	},
+	"rise_from_your_grave_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:r/rise_from_your_grave_intro",
+				"stream":true
+			}
+		]
+	},
+	"rise_from_your_grave": {
+		"sounds":[
+			{
+				"name":"ssbrc:r/rise_from_your_grave",
+				"stream":true
+			}
+		]
+	},
+	"road_to_viridian_city_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:r/road_to_viridian_city_intro",
+				"stream":true
+			}
+		]
+	},
+	"road_to_viridian_city": {
+		"sounds":[
+			{
+				"name":"ssbrc:r/road_to_viridian_city",
+				"stream":true
+			}
+		]
+	},
+	"rock_solid": {
+		"sounds":[
+			{
+				"name":"ssbrc:r/rock_solid",
+				"stream":true
+			}
+		]
+	},
+	"ryu_stage_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:r/ryu_stage_intro",
+				"stream":true
+			}
+		]
+	},
+	"ryu_stage": {
+		"sounds":[
+			{
+				"name":"ssbrc:r/ryu_stage",
+				"stream":true
+			}
+		]
+	},
+	"sand_ocean": {
+		"sounds":[
+			{
+				"name":"ssbrc:s/sand_ocean",
+				"stream":true
+			}
+		]
+	},
+	"sonic_adventure_2_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:s/sonic_adventure_2_intro",
+				"stream":true
+			}
+		]
+	},
+	"sonic_adventure_2": {
+		"sounds":[
+			{
+				"name":"ssbrc:s/sonic_adventure_2",
+				"stream":true
+			}
+		]
+	},
+	"sonic_mania_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:s/sonic_mania_intro",
+				"stream":true
+			}
+		]
+	},
+	"sonic_mania": {
+		"sounds":[
+			{
+				"name":"ssbrc:s/sonic_mania",
+				"stream":true
+			}
+		]
+	},
+	"star_wolf_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:s/star_wolf_intro",
+				"stream":true
+			}
+		]
+	},
+	"star_wolf": {
+		"sounds":[
+			{
+				"name":"ssbrc:s/star_wolf",
+				"stream":true
+			}
+		]
+	},
+	"stickerbrush_symphony_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:s/stickerbrush_symphony_intro",
+				"stream":true
+			}
+		]
+	},
+	"stickerbrush_symphony": {
+		"sounds":[
+			{
+				"name":"ssbrc:s/stickerbrush_symphony",
+				"stream":true
+			}
+		]
+	},
+	"story_5_meeting_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:s/story_5_meeting_intro",
+				"stream":true
+			}
+		]
+	},
+	"story_5_meeting": {
+		"sounds":[
+			{
+				"name":"ssbrc:s/story_5_meeting",
+				"stream":true
+			}
+		]
+	},
+	"street_fighter_4_intro_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:s/street_fighter_4_intro_intro",
+				"stream":true
+			}
+		]
+	},
+	"street_fighter_4_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:s/street_fighter_4_intro",
+				"stream":true
+			}
+		]
+	},
+	"super_mario_bros_main_theme_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:s/super_mario_bros_main_theme_intro",
+				"stream":true
+			}
+		]
+	},
+	"super_mario_bros_main_theme": {
+		"sounds":[
+			{
+				"name":"ssbrc:s/super_mario_bros_main_theme",
+				"stream":true
+			}
+		]
+	},
+	"take_over_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:t/take_over_intro",
+				"stream":true
+			}
+		]
+	},
+	"take_over": {
+		"sounds":[
+			{
+				"name":"ssbrc:t/take_over",
+				"stream":true
+			}
+		]
+	},
+	"team_galactic_battle_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:t/team_galactic_battle_intro",
+				"stream":true
+			}
+		]
+	},
+	"team_galactic_battle": {
+		"sounds":[
+			{
+				"name":"ssbrc:t/team_galactic_battle",
+				"stream":true
+			}
+		]
+	},
+	"termina_field_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:t/termina_field_intro",
+				"stream":true
+			}
+		]
+	},
+	"termina_field": {
+		"sounds":[
+			{
+				"name":"ssbrc:t/termina_field",
+				"stream":true
+			}
+		]
+	},
+	"the_eel_deal_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:t/the_eel_deal_intro",
+				"stream":true
+			}
+		]
+	},
+	"the_eel_deal": {
+		"sounds":[
+			{
+				"name":"ssbrc:t/the_eel_deal",
+				"stream":true
+			}
+		]
+	},
+	"the_fateful_return": {
+		"sounds":[
+
+			{
+				"name":"ssbrc:t/the_fateful_return",
+				"stream":true
+			}
+		]
+	},
+	"the_hero_goes_forth_with_a_determination_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:t/the_hero_goes_forth_with_a_determination_intro",
+				"stream":true
+			}
+		]
+	},
+	"the_hero_goes_forth_with_a_determination": {
+		"sounds":[
+			{
+				"name":"ssbrc:t/the_hero_goes_forth_with_a_determination",
+				"stream":true
+			}
+		]
+	},
+	"time_to_make_history_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:t/time_to_make_history_intro",
+				"stream":true
+			}
+		]
+	},
+	"time_to_make_history": {
+		"sounds":[
+			{
+				"name":"ssbrc:t/time_to_make_history",
+				"stream":true
+			}
+		]
+	},
+	"trainer_battle_pokemon_gold_silver_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:t/trainer_battle_pokemon_gold_pokemon_silver_intro",
+				"stream":true
+			}
+		]
+	},
+	"trainer_battle_pokemon_gold_silver": {
+		"sounds":[
+			{
+				"name":"ssbrc:t/trainer_battle_pokemon_gold_pokemon_silver",
+				"stream":true
+			}
+		]
+	},
+	"with_milas_divine_protection_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:w/with_milas_divine_protection_intro",
+				"stream":true
+			}
+		]
+	},
+	"with_milas_divine_protection": {
+		"sounds":[
+			{
+				"name":"ssbrc:w/with_milas_divine_protection",
+				"stream":true
+			}
+		]
+	},
+	"zybex_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:z/zybex_intro",
+				"stream":true
+			}
+		]
+	},
+	"zybex": {
+		"sounds":[
+			{
+				"name":"ssbrc:z/zybex",
+				"stream":true
+			}
+		]
+	}
+}
