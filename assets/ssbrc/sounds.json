@@ -735,6 +735,22 @@
 			}
 		]
 	},
+	"multiplayer_metroid_prime_2_echoes_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:m/multiplayer_metroid_prime_2_echoes_intro",
+				"stream":true
+			}
+		]
+	},
+	"multiplayer_metroid_prime_2_echoes": {
+		"sounds":[
+			{
+				"name":"ssbrc:m/multiplayer_metroid_prime_2_echoes",
+				"stream":true
+			}
+		]
+	},
 	"nintendo_land_medley": {
 		"sounds":[
 			{
@@ -1092,6 +1108,22 @@
 		"sounds":[
 			{
 				"name":"ssbrc:t/the_hero_goes_forth_with_a_determination",
+				"stream":true
+			}
+		]
+	},
+	"theme_of_samus_aran_space_warrior_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:t/theme_of_samus_aran_space_warrior_intro",
+				"stream":true
+			}
+		]
+	},
+	"theme_of_samus_aran_space_warrior": {
+		"sounds":[
+			{
+				"name":"ssbrc:t/theme_of_samus_aran_space_warrior",
 				"stream":true
 			}
 		]
