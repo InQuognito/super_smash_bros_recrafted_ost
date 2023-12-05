@@ -1,1193 +1,1420 @@
 {
-	"anatasia_battle_intro": {
+	"music.altered_beast.anatasia_battle_intro": {
 		"sounds":[
 			{
-				"name":"ssbrc:a/anatasia_battle_intro",
+				"name":"ssbrc:altered_beast/anatasia_battle_intro",
 				"stream":true
 			}
 		]
 	},
-	"anatasia_battle": {
+	"music.altered_beast.anatasia_battle": {
 		"sounds":[
 			{
-				"name":"ssbrc:a/anatasia_battle",
+				"name":"ssbrc:altered_beast/anatasia_battle",
 				"stream":true
 			}
 		]
 	},
-	"aquarius_intro": {
+	"music.altered_beast.rise_from_your_grave_intro": {
 		"sounds":[
 			{
-				"name":"ssbrc:a/aquarius_intro",
+				"name":"ssbrc:altered_beast/rise_from_your_grave_intro",
 				"stream":true
 			}
 		]
 	},
-	"aquarius": {
+	"music.altered_beast.rise_from_your_grave": {
 		"sounds":[
 			{
-				"name":"ssbrc:a/aquarius",
+				"name":"ssbrc:altered_beast/rise_from_your_grave",
 				"stream":true
 			}
 		]
 	},
-	"aquos_arena": {
-		"sounds":[
-			{
-				"name":"ssbrc:a/aquos_arena",
-				"stream":true
-			}
-		]
-	},
-	"area_6_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:a/area_6_intro",
-				"stream":true
-			}
-		]
-	},
-	"area_6": {
-		"sounds":[
-			{
-				"name":"ssbrc:a/area_6",
-				"stream":true
-			}
-		]
-	},
-	"axe_to_grind_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:a/axe_to_grind_intro",
-				"stream":true
-			}
-		]
-	},
-	"axe_to_grind": {
-		"sounds":[
-			{
-				"name":"ssbrc:a/axe_to_grind",
-				"stream":true
-			}
-		]
-	},
-	"ballad_of_the_goddess_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:b/ballad_of_the_goddess_intro",
-				"stream":true
-			}
-		]
-	},
-	"ballad_of_the_goddess": {
-		"sounds":[
-			{
-				"name":"ssbrc:b/ballad_of_the_goddess",
-				"stream":true
-			}
-		]
-	},
-	"battle_for_glory_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:b/battle_for_glory_intro",
-				"stream":true
-			}
-		]
-	},
-	"battle_for_glory": {
-		"sounds":[
-			{
-				"name":"ssbrc:b/battle_for_glory",
-				"stream":true
-			}
-		]
-	},
-	"battle_lets_go_pikachu_eevee_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:b/battle_lets_go_pikachu_eevee_intro",
-				"stream":true
-			}
-		]
-	},
-	"battle_lets_go_pikachu_eevee": {
-		"sounds":[
-			{
-				"name":"ssbrc:b/battle_lets_go_pikachu_eevee",
-				"stream":true
-			}
-		]
-	},
-	"battle_on_the_big_bridge_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:b/battle_on_the_big_bridge_intro",
-				"stream":true
-			}
-		]
-	},
-	"battle_on_the_big_bridge": {
-		"sounds":[
-			{
-				"name":"ssbrc:b/battle_on_the_big_bridge",
-				"stream":true
-			}
-		]
-	},
-	"bloody_tears_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:b/bloody_tears_intro",
-				"stream":true
-			}
-		]
-	},
-	"bloody_tears": {
-		"sounds":[
-			{
-				"name":"ssbrc:b/bloody_tears",
-				"stream":true
-			}
-		]
-	},
-	"bob_omb_battlefield_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:b/bob_omb_battlefield_intro",
-				"stream":true
-			}
-		]
-	},
-	"bob_omb_battlefield": {
-		"sounds":[
-			{
-				"name":"ssbrc:b/bob_omb_battlefield",
-				"stream":true
-			}
-		]
-	},
-	"bowsers_lava_lair_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:b/bowsers_lava_lair_intro",
-				"stream":true
-			}
-		]
-	},
-	"bowsers_lava_lair": {
-		"sounds":[
-			{
-				"name":"ssbrc:b/bowsers_lava_lair",
-				"stream":true
-			}
-		]
-	},
-	"brain_cleaner_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:b/brain_cleaner_intro",
-				"stream":true
-			}
-		]
-	},
-	"brain_cleaner": {
-		"sounds":[
-			{
-				"name":"ssbrc:b/brain_cleaner",
-				"stream":true
-			}
-		]
-	},
-	"brinstar_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:b/brinstar_intro",
-				"stream":true
-			}
-		]
-	},
-	"brinstar": {
-		"sounds":[
-			{
-				"name":"ssbrc:b/brinstar",
-				"stream":true
-			}
-		]
-	},
-	"chase_giga_bowser_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:c/chase_giga_bowser_intro",
-				"stream":true
-			}
-		]
-	},
-	"chase_giga_bowser": {
-		"sounds":[
-			{
-				"name":"ssbrc:c/chase_giga_bowser",
-				"stream":true
-			}
-		]
-	},
-	"checker_knights_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:c/checker_knights_intro",
-				"stream":true
-			}
-		]
-	},
-	"checker_knights": {
-		"sounds":[
-			{
-				"name":"ssbrc:c/checker_knights",
-				"stream":true
-			}
-		]
-	},
-	"cognitive_dissonance_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:c/cognitive_dissonance_intro",
-				"stream":true
-			}
-		]
-	},
-	"cognitive_dissonance": {
-		"sounds":[
-			{
-				"name":"ssbrc:c/cognitive_dissonance",
-				"stream":true
-			}
-		]
-	},
-	"dark_hallways_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:d/dark_hallways_intro",
-				"stream":true
-			}
-		]
-	},
-	"dark_hallways": {
-		"sounds":[
-			{
-				"name":"ssbrc:d/dark_hallways",
-				"stream":true
-			}
-		]
-	},
-	"dark_pits_theme_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:d/dark_pits_theme_intro",
-				"stream":true
-			}
-		]
-	},
-	"dark_pits_theme": {
-		"sounds":[
-			{
-				"name":"ssbrc:d/dark_pits_theme",
-				"stream":true
-			}
-		]
-	},
-	"destroyed_skyworld_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:d/destroyed_skyworld_intro",
-				"stream":true
-			}
-		]
-	},
-	"destroyed_skyworld": {
-		"sounds":[
-			{
-				"name":"ssbrc:d/destroyed_skyworld",
-				"stream":true
-			}
-		]
-	},
-	"dialga_and_palkia_battle_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:d/dialga_and_palkia_battle_intro",
-				"stream":true
-			}
-		]
-	},
-	"dialga_and_palkia_battle": {
-		"sounds":[
-			{
-				"name":"ssbrc:d/dialga_and_palkia_battle",
-				"stream":true
-			}
-		]
-	},
-	"draconus_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:d/draconus_intro",
-				"stream":true
-			}
-		]
-	},
-	"draconus": {
-		"sounds":[
-			{
-				"name":"ssbrc:d/draconus",
-				"stream":true
-			}
-		]
-	},
-	"eight_melodies_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:e/eight_melodies_intro",
-				"stream":true
-			}
-		]
-	},
-	"eight_melodies": {
-		"sounds":[
-			{
-				"name":"ssbrc:e/eight_melodies",
-				"stream":true
-			}
-		]
-	},
-	"encounter_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:e/encounter_intro",
-				"stream":true
-			}
-		]
-	},
-	"encounter": {
-		"sounds":[
-			{
-				"name":"ssbrc:e/encounter",
-				"stream":true
-			}
-		]
-	},
-	"final_destination_melee_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:f/final_destination_melee_intro",
-				"stream":true
-			}
-		]
-	},
-	"final_destination_melee": {
-		"sounds":[
-			{
-				"name":"ssbrc:f/final_destination_melee",
-				"stream":true
-			}
-		]
-	},
-	"flat_zone_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:f/flat_zone_intro",
-				"stream":true
-			}
-		]
-	},
-	"flat_zone": {
-		"sounds":[
-			{
-				"name":"ssbrc:f/flat_zone",
-				"stream":true
-			}
-		]
-	},
-	"flat_zone_2_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:f/flat_zone_2_intro",
-				"stream":true
-			}
-		]
-	},
-	"flat_zone_2": {
-		"sounds":[
-			{
-				"name":"ssbrc:f/flat_zone_2",
-				"stream":true
-			}
-		]
-	},
-	"forest_of_hope_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:f/forest_of_hope_intro",
-				"stream":true
-			}
-		]
-	},
-	"forest_of_hope": {
-		"sounds":[
-			{
-				"name":"ssbrc:f/forest_of_hope",
-				"stream":true
-			}
-		]
-	},
-	"garden_of_hope_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:g/garden_of_hope_intro",
-				"stream":true
-			}
-		]
-	},
-	"garden_of_hope": {
-		"sounds":[
-			{
-				"name":"ssbrc:g/garden_of_hope",
-				"stream":true
-			}
-		]
-	},
-	"hitting_close_to_home": {
-		"sounds":[
-			{
-				"name":"ssbrc:h/hitting_close_to_home",
-				"stream":true
-			}
-		]
-	},
-	"homecoming_hijinx_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:h/homecoming_hijinx_intro",
-				"stream":true
-			}
-		]
-	},
-	"homecoming_hijinx": {
-		"sounds":[
-			{
-				"name":"ssbrc:h/homecoming_hijinx",
-				"stream":true
-			}
-		]
-	},
-	"humoresque_of_a_little_dog_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:h/humoresque_of_a_little_dog_intro",
-				"stream":true
-			}
-		]
-	},
-	"humoresque_of_a_little_dog": {
-		"sounds":[
-			{
-				"name":"ssbrc:h/humoresque_of_a_little_dog",
-				"stream":true
-			}
-		]
-	},
-	"hyrule_castle_theme_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:h/hyrule_castle_theme_intro",
-				"stream":true
-			}
-		]
-	},
-	"hyrule_castle_theme": {
-		"sounds":[
-			{
-				"name":"ssbrc:h/hyrule_castle_theme",
-				"stream":true
-			}
-		]
-	},
-	"ice_climber_melee_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:i/ice_climber_melee_intro",
-				"stream":true
-			}
-		]
-	},
-	"ice_climber_melee": {
-		"sounds":[
-			{
-				"name":"ssbrc:i/ice_climber_melee",
-				"stream":true
-			}
-		]
-	},
-	"ice_climber_retro": {
-		"sounds":[
-			{
-				"name":"ssbrc:i/ice_climber_retro",
-				"stream":true
-			}
-		]
-	},
-	"jungle_japes_melee_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:j/jungle_japes_melee_intro",
-				"stream":true
-			}
-		]
-	},
-	"jungle_japes_melee": {
-		"sounds":[
-			{
-				"name":"ssbrc:j/jungle_japes_melee",
-				"stream":true
-			}
-		]
-	},
-	"jungle_swing": {
-		"sounds":[
-			{
-				"name":"ssbrc:j/jungle_swing",
-				"stream":true
-			}
-		]
-	},
-	"kass_theme_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:k/kass_theme_intro",
-				"stream":true
-			}
-		]
-	},
-	"kass_theme": {
-		"sounds":[
-			{
-				"name":"ssbrc:k/kass_theme",
-				"stream":true
-			}
-		]
-	},
-	"legend_of_zelda_main_theme_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:l/legend_of_zelda_main_theme_intro",
-				"stream":true
-			}
-		]
-	},
-	"legend_of_zelda_main_theme": {
-		"sounds":[
-			{
-				"name":"ssbrc:l/legend_of_zelda_main_theme",
-				"stream":true
-			}
-		]
-	},
-	"light_in_starless_sky_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:l/light_in_starless_sky_intro",
-				"stream":true
-			}
-		]
-	},
-	"light_in_starless_sky": {
-		"sounds":[
-			{
-				"name":"ssbrc:l/light_in_starless_sky",
-				"stream":true
-			}
-		]
-	},
-	"luigis_mansion_theme_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:l/luigis_mansion_theme_intro",
-				"stream":true
-			}
-		]
-	},
-	"luigis_mansion_theme": {
-		"sounds":[
-			{
-				"name":"ssbrc:l/luigis_mansion_theme",
-				"stream":true
-			}
-		]
-	},
-	"magmoor_caverns_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:m/magmoor_caverns_intro",
-				"stream":true
-			}
-		]
-	},
-	"magmoor_caverns": {
-		"sounds":[
-			{
-				"name":"ssbrc:m/magmoor_caverns",
-				"stream":true
-			}
-		]
-	},
-	"mario_paint_medley_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:m/mario_paint_medley_intro",
-				"stream":true
-			}
-		]
-	},
-	"mario_paint_medley": {
-		"sounds":[
-			{
-				"name":"ssbrc:m/mario_paint_medley",
-				"stream":true
-			}
-		]
-	},
-	"mass_destruction_dual_mix_part_1": {
-		"sounds":[
-			{
-				"name":"ssbrc:m/mass_destruction_dual_mix_part_1",
-				"stream":true
-			}
-		]
-	},
-	"mass_destruction_dual_mix_part_2": {
-		"sounds":[
-			{
-				"name":"ssbrc:m/mass_destruction_dual_mix_part_2",
-				"stream":true
-			}
-		]
-	},
-	"master_hand_fight_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:m/master_hand_fight_intro",
-				"stream":true
-			}
-		]
-	},
-	"master_hand_fight": {
-		"sounds":[
-			{
-				"name":"ssbrc:m/master_hand_fight",
-				"stream":true
-			}
-		]
-	},
-	"mega_man_2_medley_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:m/mega_man_2_medley_intro",
-				"stream":true
-			}
-		]
-	},
-	"mega_man_2_medley": {
-		"sounds":[
-			{
-				"name":"ssbrc:m/mega_man_2_medley",
-				"stream":true
-			}
-		]
-	},
-	"mega_man_4_medley_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:m/mega_man_4_medley_intro",
-				"stream":true
-			}
-		]
-	},
-	"mega_man_4_medley": {
-		"sounds":[
-			{
-				"name":"ssbrc:m/mega_man_4_medley",
-				"stream":true
-			}
-		]
-	},
-	"metal_gear_online_3_main_theme": {
-		"sounds":[
-			{
-				"name":"ssbrc:m/metal_gear_online_3_main_theme",
-				"stream":true
-			}
-		]
-	},
-	"mr_saturn_theme_z": {
-		"sounds":[
-			{
-				"name":"ssbrc:m/mr_saturn_theme_z",
-				"stream":true
-			}
-		]
-	},
-	"multiplayer_metroid_prime_2_echoes_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:m/multiplayer_metroid_prime_2_echoes_intro",
-				"stream":true
-			}
-		]
-	},
-	"multiplayer_metroid_prime_2_echoes": {
-		"sounds":[
-			{
-				"name":"ssbrc:m/multiplayer_metroid_prime_2_echoes",
-				"stream":true
-			}
-		]
-	},
-	"nintendo_land_medley": {
-		"sounds":[
-			{
-				"name":"ssbrc:n/nintendo_land_medley",
-				"stream":true
-			}
-		]
-	},
-	"pac_man_club_mix_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:p/pac_man_club_mix_intro",
-				"stream":true
-			}
-		]
-	},
-	"pac_man_club_mix": {
-		"sounds":[
-			{
-				"name":"ssbrc:p/pac_man_club_mix",
-				"stream":true
-			}
-		]
-	},
-	"pac_rainbow": {
-		"sounds":[
-			{
-				"name":"ssbrc:p/pac_rainbow",
-				"stream":true
-			}
-		]
-	},
-	"planet_popstar_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:p/planet_popstar_intro",
-				"stream":true
-			}
-		]
-	},
-	"planet_popstar": {
-		"sounds":[
-			{
-				"name":"ssbrc:p/planet_popstar",
-				"stream":true
-			}
-		]
-	},
-	"pokemon_gold_pokemon_silver_medley_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:p/pokemon_gold_pokemon_silver_medley_intro",
-				"stream":true
-			}
-		]
-	},
-	"pokemon_gold_pokemon_silver_medley": {
-		"sounds":[
-			{
-				"name":"ssbrc:p/pokemon_gold_pokemon_silver_medley",
-				"stream":true
-			}
-		]
-	},
-	"reach_out_to_the_truth_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:r/reach_out_to_the_truth_intro",
-				"stream":true
-			}
-		]
-	},
-	"reach_out_to_the_truth": {
-		"sounds":[
-			{
-				"name":"ssbrc:r/reach_out_to_the_truth",
-				"stream":true
-			}
-		]
-	},
-	"rescue_operation_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:r/rescue_operation_intro",
-				"stream":true
-			}
-		]
-	},
-	"rescue_operation": {
-		"sounds":[
-			{
-				"name":"ssbrc:r/rescue_operation",
-				"stream":true
-			}
-		]
-	},
-	"rise_from_your_grave_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:r/rise_from_your_grave_intro",
-				"stream":true
-			}
-		]
-	},
-	"rise_from_your_grave": {
-		"sounds":[
-			{
-				"name":"ssbrc:r/rise_from_your_grave",
-				"stream":true
-			}
-		]
-	},
-	"road_to_viridian_city_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:r/road_to_viridian_city_intro",
-				"stream":true
-			}
-		]
-	},
-	"road_to_viridian_city": {
-		"sounds":[
-			{
-				"name":"ssbrc:r/road_to_viridian_city",
-				"stream":true
-			}
-		]
-	},
-	"rock_solid": {
-		"sounds":[
-			{
-				"name":"ssbrc:r/rock_solid",
-				"stream":true
-			}
-		]
-	},
-	"ryu_stage_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:r/ryu_stage_intro",
-				"stream":true
-			}
-		]
-	},
-	"ryu_stage": {
-		"sounds":[
-			{
-				"name":"ssbrc:r/ryu_stage",
-				"stream":true
-			}
-		]
-	},
-	"sand_ocean": {
-		"sounds":[
-			{
-				"name":"ssbrc:s/sand_ocean",
-				"stream":true
-			}
-		]
-	},
-	"sonic_adventure_2_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:s/sonic_adventure_2_intro",
-				"stream":true
-			}
-		]
-	},
-	"sonic_adventure_2": {
-		"sounds":[
-			{
-				"name":"ssbrc:s/sonic_adventure_2",
-				"stream":true
-			}
-		]
-	},
-	"sonic_mania_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:s/sonic_mania_intro",
-				"stream":true
-			}
-		]
-	},
-	"sonic_mania": {
-		"sounds":[
-			{
-				"name":"ssbrc:s/sonic_mania",
-				"stream":true
-			}
-		]
-	},
-	"star_wolf_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:s/star_wolf_intro",
-				"stream":true
-			}
-		]
-	},
-	"star_wolf": {
-		"sounds":[
-			{
-				"name":"ssbrc:s/star_wolf",
-				"stream":true
-			}
-		]
-	},
-	"stickerbrush_symphony_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:s/stickerbrush_symphony_intro",
-				"stream":true
-			}
-		]
-	},
-	"stickerbrush_symphony": {
-		"sounds":[
-			{
-				"name":"ssbrc:s/stickerbrush_symphony",
-				"stream":true
-			}
-		]
-	},
-	"story_5_meeting_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:s/story_5_meeting_intro",
-				"stream":true
-			}
-		]
-	},
-	"story_5_meeting": {
-		"sounds":[
-			{
-				"name":"ssbrc:s/story_5_meeting",
-				"stream":true
-			}
-		]
-	},
-	"street_fighter_4_intro_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:s/street_fighter_4_intro_intro",
-				"stream":true
-			}
-		]
-	},
-	"street_fighter_4_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:s/street_fighter_4_intro",
-				"stream":true
-			}
-		]
-	},
-	"super_mario_bros_main_theme_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:s/super_mario_bros_main_theme_intro",
-				"stream":true
-			}
-		]
-	},
-	"super_mario_bros_main_theme": {
-		"sounds":[
-			{
-				"name":"ssbrc:s/super_mario_bros_main_theme",
-				"stream":true
-			}
-		]
-	},
-	"take_over_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:t/take_over_intro",
-				"stream":true
-			}
-		]
-	},
-	"take_over": {
-		"sounds":[
-			{
-				"name":"ssbrc:t/take_over",
-				"stream":true
-			}
-		]
-	},
-	"team_galactic_battle_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:t/team_galactic_battle_intro",
-				"stream":true
-			}
-		]
-	},
-	"team_galactic_battle": {
-		"sounds":[
-			{
-				"name":"ssbrc:t/team_galactic_battle",
-				"stream":true
-			}
-		]
-	},
-	"termina_field_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:t/termina_field_intro",
-				"stream":true
-			}
-		]
-	},
-	"termina_field": {
-		"sounds":[
-			{
-				"name":"ssbrc:t/termina_field",
-				"stream":true
-			}
-		]
-	},
-	"the_eel_deal_intro": {
-		"sounds":[
-			{
-				"name":"ssbrc:t/the_eel_deal_intro",
-				"stream":true
-			}
-		]
-	},
-	"the_eel_deal": {
-		"sounds":[
-			{
-				"name":"ssbrc:t/the_eel_deal",
-				"stream":true
-			}
-		]
-	},
-	"the_fateful_return": {
-		"sounds":[
 
+	"music.castlevania.aquarius_intro": {
+		"sounds":[
 			{
-				"name":"ssbrc:t/the_fateful_return",
+				"name":"ssbrc:castlevania/aquarius_intro",
 				"stream":true
 			}
 		]
 	},
-	"the_hero_goes_forth_with_a_determination_intro": {
+	"music.castlevania.aquarius": {
 		"sounds":[
 			{
-				"name":"ssbrc:t/the_hero_goes_forth_with_a_determination_intro",
+				"name":"ssbrc:castlevania/aquarius",
 				"stream":true
 			}
 		]
 	},
-	"the_hero_goes_forth_with_a_determination": {
+	"music.castlevania.bloody_tears_intro": {
 		"sounds":[
 			{
-				"name":"ssbrc:t/the_hero_goes_forth_with_a_determination",
+				"name":"ssbrc:castlevania/bloody_tears_intro",
 				"stream":true
 			}
 		]
 	},
-	"theme_of_samus_aran_space_warrior_intro": {
+	"music.castlevania.bloody_tears": {
 		"sounds":[
 			{
-				"name":"ssbrc:t/theme_of_samus_aran_space_warrior_intro",
+				"name":"ssbrc:castlevania/bloody_tears",
 				"stream":true
 			}
 		]
 	},
-	"theme_of_samus_aran_space_warrior": {
+
+	"music.donkey_kong.homecoming_hijinx_intro": {
 		"sounds":[
 			{
-				"name":"ssbrc:t/theme_of_samus_aran_space_warrior",
+				"name":"ssbrc:donkey_kong/homecoming_hijinx_intro",
 				"stream":true
 			}
 		]
 	},
-	"time_to_make_history_intro": {
+	"music.donkey_kong.homecoming_hijinx": {
 		"sounds":[
 			{
-				"name":"ssbrc:t/time_to_make_history_intro",
+				"name":"ssbrc:donkey_kong/homecoming_hijinx",
 				"stream":true
 			}
 		]
 	},
-	"time_to_make_history": {
+	"music.donkey_kong.jungle_japes_melee_intro": {
 		"sounds":[
 			{
-				"name":"ssbrc:t/time_to_make_history",
+				"name":"ssbrc:donkey_kong/jungle_japes_melee_intro",
 				"stream":true
 			}
 		]
 	},
-	"trainer_battle_pokemon_gold_silver_intro": {
+	"music.donkey_kong.jungle_japes_melee": {
 		"sounds":[
 			{
-				"name":"ssbrc:t/trainer_battle_pokemon_gold_pokemon_silver_intro",
+				"name":"ssbrc:donkey_kong/jungle_japes_melee",
 				"stream":true
 			}
 		]
 	},
-	"trainer_battle_pokemon_gold_silver": {
+	"music.donkey_kong.jungle_swing": {
 		"sounds":[
 			{
-				"name":"ssbrc:t/trainer_battle_pokemon_gold_pokemon_silver",
+				"name":"ssbrc:donkey_kong/jungle_swing",
 				"stream":true
 			}
 		]
 	},
-	"with_milas_divine_protection_intro": {
+	"music.donkey_kong.stickerbrush_symphony_intro": {
 		"sounds":[
 			{
-				"name":"ssbrc:w/with_milas_divine_protection_intro",
+				"name":"ssbrc:donkey_kong/stickerbrush_symphony_intro",
 				"stream":true
 			}
 		]
 	},
-	"with_milas_divine_protection": {
+	"music.donkey_kong.stickerbrush_symphony": {
 		"sounds":[
 			{
-				"name":"ssbrc:w/with_milas_divine_protection",
+				"name":"ssbrc:donkey_kong/stickerbrush_symphony",
 				"stream":true
 			}
 		]
 	},
-	"zybex_intro": {
+
+	"music.dragon_quest.battle_for_glory_intro": {
 		"sounds":[
 			{
-				"name":"ssbrc:z/zybex_intro",
+				"name":"ssbrc:dragon_quest/battle_for_glory_intro",
 				"stream":true
 			}
 		]
 	},
-	"zybex": {
+	"music.dragon_quest.battle_for_glory": {
 		"sounds":[
 			{
-				"name":"ssbrc:z/zybex",
+				"name":"ssbrc:dragon_quest/battle_for_glory",
+				"stream":true
+			}
+		]
+	},
+	"music.dragon_quest.the_hero_goes_forth_with_a_determination_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:dragon_quest/the_hero_goes_forth_with_a_determination_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.dragon_quest.the_hero_goes_forth_with_a_determination": {
+		"sounds":[
+			{
+				"name":"ssbrc:dragon_quest/the_hero_goes_forth_with_a_determination",
+				"stream":true
+			}
+		]
+	},
+
+	"music.earthbound.cognitive_dissonance_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:earthbound/cognitive_dissonance_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.earthbound.cognitive_dissonance": {
+		"sounds":[
+			{
+				"name":"ssbrc:earthbound/cognitive_dissonance",
+				"stream":true
+			}
+		]
+	},
+	"music.earthbound.eight_melodies_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:earthbound/eight_melodies_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.earthbound.eight_melodies": {
+		"sounds":[
+			{
+				"name":"ssbrc:earthbound/eight_melodies",
+				"stream":true
+			}
+		]
+	},
+	"music.earthbound.humoresque_of_a_little_dog_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:earthbound/humoresque_of_a_little_dog_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.earthbound.humoresque_of_a_little_dog": {
+		"sounds":[
+			{
+				"name":"ssbrc:earthbound/humoresque_of_a_little_dog",
+				"stream":true
+			}
+		]
+	},
+	"music.earthbound.mr_saturn_theme_z": {
+		"sounds":[
+			{
+				"name":"ssbrc:earthbound/mr_saturn_theme_z",
+				"stream":true
+			}
+		]
+	},
+
+	"music.f_zero.brain_cleaner_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:f_zero/brain_cleaner_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.f_zero.brain_cleaner": {
+		"sounds":[
+			{
+				"name":"ssbrc:f_zero/brain_cleaner",
+				"stream":true
+			}
+		]
+	},
+	"music.f_zero.sand_ocean": {
+		"sounds":[
+			{
+				"name":"ssbrc:f_zero/sand_ocean",
+				"stream":true
+			}
+		]
+	},
+
+	"music.final_fantasy.battle_on_the_big_bridge_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:final_fantasy/battle_on_the_big_bridge_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.final_fantasy.battle_on_the_big_bridge": {
+		"sounds":[
+			{
+				"name":"ssbrc:final_fantasy/battle_on_the_big_bridge",
+				"stream":true
+			}
+		]
+	},
+	"music.final_fantasy.fight_on_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:final_fantasy/fight_on_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.final_fantasy.fight_on": {
+		"sounds":[
+			{
+				"name":"ssbrc:final_fantasy/fight_on",
+				"stream":true
+			}
+		]
+	},
+	"music.final_fantasy.let_the_battles_begin_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:final_fantasy/let_the_battles_begin_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.final_fantasy.let_the_battles_begin": {
+		"sounds":[
+			{
+				"name":"ssbrc:final_fantasy/let_the_battles_begin",
+				"stream":true
+			}
+		]
+	},
+	"music.final_fantasy.one_winged_angel_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:final_fantasy/one_winged_angel_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.final_fantasy.one_winged_angel": {
+		"sounds":[
+			{
+				"name":"ssbrc:final_fantasy/one_winged_angel",
+				"stream":true
+			}
+		]
+	},
+
+	"music.fire_emblem.story_5_meeting_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:fire_emblem/story_5_meeting_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.fire_emblem.story_5_meeting": {
+		"sounds":[
+			{
+				"name":"ssbrc:fire_emblem/story_5_meeting",
+				"stream":true
+			}
+		]
+	},
+	"music.fire_emblem.with_milas_divine_protection_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:fire_emblem/with_milas_divine_protection_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.fire_emblem.with_milas_divine_protection": {
+		"sounds":[
+			{
+				"name":"ssbrc:fire_emblem/with_milas_divine_protection",
+				"stream":true
+			}
+		]
+	},
+
+	"music.game_and_watch.flat_zone_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:game_and_watch/flat_zone_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.game_and_watch.flat_zone": {
+		"sounds":[
+			{
+				"name":"ssbrc:game_and_watch/flat_zone",
+				"stream":true
+			}
+		]
+	},
+	"music.game_and_watch.flat_zone_2_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:game_and_watch/flat_zone_2_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.game_and_watch.flat_zone_2": {
+		"sounds":[
+			{
+				"name":"ssbrc:game_and_watch/flat_zone_2",
+				"stream":true
+			}
+		]
+	},
+
+	"music.ice_climber.ice_climber_melee_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:ice_climber/ice_climber_melee_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.ice_climber.ice_climber_melee": {
+		"sounds":[
+			{
+				"name":"ssbrc:ice_climber/ice_climber_melee",
+				"stream":true
+			}
+		]
+	},
+	"music.ice_climber.ice_climber_retro": {
+		"sounds":[
+			{
+				"name":"ssbrc:ice_climber/ice_climber_retro",
+				"stream":true
+			}
+		]
+	},
+
+	"music.kid_icarus.dark_pits_theme_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:kid_icarus/dark_pits_theme_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.kid_icarus.dark_pits_theme": {
+		"sounds":[
+			{
+				"name":"ssbrc:kid_icarus/dark_pits_theme",
+				"stream":true
+			}
+		]
+	},
+	"music.kid_icarus.destroyed_skyworld_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:kid_icarus/destroyed_skyworld_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.kid_icarus.destroyed_skyworld": {
+		"sounds":[
+			{
+				"name":"ssbrc:kid_icarus/destroyed_skyworld",
+				"stream":true
+			}
+		]
+	},
+
+	"music.kingdom_hearts.the_13th_struggle_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:kingdom_hearts/the_13th_struggle_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.kingdom_hearts.the_13th_struggle": {
+		"sounds":[
+			{
+				"name":"ssbrc:kingdom_hearts/the_13th_struggle",
+				"stream":true
+			}
+		]
+	},
+
+	"music.kirby.checker_knights_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:kirby/checker_knights_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.kirby.checker_knights": {
+		"sounds":[
+			{
+				"name":"ssbrc:kirby/checker_knights",
+				"stream":true
+			}
+		]
+	},
+	"music.kirby.planet_popstar_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:kirby/planet_popstar_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.kirby.planet_popstar": {
+		"sounds":[
+			{
+				"name":"ssbrc:kirby/planet_popstar",
+				"stream":true
+			}
+		]
+	},
+
+	"music.mega_man.mega_man_2_medley_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:mega_man/mega_man_2_medley_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.mega_man.mega_man_2_medley": {
+		"sounds":[
+			{
+				"name":"ssbrc:mega_man/mega_man_2_medley",
+				"stream":true
+			}
+		]
+	},
+	"music.mega_man.mega_man_4_medley_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:mega_man/mega_man_4_medley_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.mega_man.mega_man_4_medley": {
+		"sounds":[
+			{
+				"name":"ssbrc:mega_man/mega_man_4_medley",
+				"stream":true
+			}
+		]
+	},
+
+	"music.metal_gear_solid.encounter_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:metal_gear_solid/encounter_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.metal_gear_solid.encounter": {
+		"sounds":[
+			{
+				"name":"ssbrc:metal_gear_solid/encounter",
+				"stream":true
+			}
+		]
+	},
+	"music.metal_gear_solid.metal_gear_online_3_main_theme": {
+		"sounds":[
+			{
+				"name":"ssbrc:metal_gear_solid/metal_gear_online_3_main_theme",
+				"stream":true
+			}
+		]
+	},
+
+	"music.metroid.brinstar_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:metroid/brinstar_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.metroid.brinstar": {
+		"sounds":[
+			{
+				"name":"ssbrc:metroid/brinstar",
+				"stream":true
+			}
+		]
+	},
+	"music.metroid.magmoor_caverns_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:metroid/magmoor_caverns_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.metroid.magmoor_caverns": {
+		"sounds":[
+			{
+				"name":"ssbrc:metroid/magmoor_caverns",
+				"stream":true
+			}
+		]
+	},
+	"music.metroid.multiplayer_metroid_prime_2_echoes_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:metroid/multiplayer_metroid_prime_2_echoes_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.metroid.multiplayer_metroid_prime_2_echoes": {
+		"sounds":[
+			{
+				"name":"ssbrc:metroid/multiplayer_metroid_prime_2_echoes",
+				"stream":true
+			}
+		]
+	},
+	"music.metroid.theme_of_samus_aran_space_warrior_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:metroid/theme_of_samus_aran_space_warrior_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.metroid.theme_of_samus_aran_space_warrior": {
+		"sounds":[
+			{
+				"name":"ssbrc:metroid/theme_of_samus_aran_space_warrior",
+				"stream":true
+			}
+		]
+	},
+
+	"music.nes_robot.gyromite_game_a": {
+		"sounds":[
+			{
+				"name":"ssbrc:nes_robot/gyromite_game_a",
+				"stream":true
+			}
+		]
+	},
+	"music.nes_robot.gyromite_stack_up_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:nes_robot/gyromite_stack_up_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.nes_robot.gyromite_stack_up": {
+		"sounds":[
+			{
+				"name":"ssbrc:nes_robot/gyromite_stack_up",
+				"stream":true
+			}
+		]
+	},
+
+	"music.pac_man.pac_man_club_mix_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:pac_man/pac_man_club_mix_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.pac_man.pac_man_club_mix": {
+		"sounds":[
+			{
+				"name":"ssbrc:pac_man/pac_man_club_mix",
+				"stream":true
+			}
+		]
+	},
+	"music.pac_man.pac_rainbow": {
+		"sounds":[
+			{
+				"name":"ssbrc:pac_man/pac_rainbow",
+				"stream":true
+			}
+		]
+	},
+
+	"music.persona.aria_of_the_soul_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:persona/aria_of_the_soul_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.persona.aria_of_the_soul": {
+		"sounds":[
+			{
+				"name":"ssbrc:persona/aria_of_the_soul",
+				"stream":true
+			}
+		]
+	},
+	"music.persona.axe_to_grind_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:persona/axe_to_grind_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.persona.axe_to_grind": {
+		"sounds":[
+			{
+				"name":"ssbrc:persona/axe_to_grind",
+				"stream":true
+			}
+		]
+	},
+	"music.persona.bloody_destiny_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:persona/bloody_destiny_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.persona.bloody_destiny": {
+		"sounds":[
+			{
+				"name":"ssbrc:persona/bloody_destiny",
+				"stream":true
+			}
+		]
+	},
+	"music.persona.innocent_sin_battle_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:persona/innocent_sin_battle_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.persona.innocent_sin_battle": {
+		"sounds":[
+			{
+				"name":"ssbrc:persona/innocent_sin_battle",
+				"stream":true
+			}
+		]
+	},
+	"music.persona.knights_of_the_holy_spear_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:persona/knights_of_the_holy_spear_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.persona.knights_of_the_holy_spear": {
+		"sounds":[
+			{
+				"name":"ssbrc:persona/knights_of_the_holy_spear",
+				"stream":true
+			}
+		]
+	},
+	"music.persona.light_in_starless_sky_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:persona/light_in_starless_sky_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.persona.light_in_starless_sky": {
+		"sounds":[
+			{
+				"name":"ssbrc:persona/light_in_starless_sky",
+				"stream":true
+			}
+		]
+	},
+	"music.persona.mass_destruction_dual_mix_part_1": {
+		"sounds":[
+			{
+				"name":"ssbrc:persona/mass_destruction_dual_mix_part_1",
+				"stream":true
+			}
+		]
+	},
+	"music.persona.mass_destruction_dual_mix_part_2": {
+		"sounds":[
+			{
+				"name":"ssbrc:persona/mass_destruction_dual_mix_part_2",
+				"stream":true
+			}
+		]
+	},
+	"music.persona.reach_out_to_the_truth_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:persona/reach_out_to_the_truth_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.persona.reach_out_to_the_truth": {
+		"sounds":[
+			{
+				"name":"ssbrc:persona/reach_out_to_the_truth",
+				"stream":true
+			}
+		]
+	},
+	"music.persona.take_over_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:persona/take_over_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.persona.take_over": {
+		"sounds":[
+			{
+				"name":"ssbrc:persona/take_over",
+				"stream":true
+			}
+		]
+	},
+	"music.persona.time_to_make_history_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:persona/time_to_make_history_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.persona.time_to_make_history": {
+		"sounds":[
+			{
+				"name":"ssbrc:persona/time_to_make_history",
+				"stream":true
+			}
+		]
+	},
+
+	"music.pikmin.forest_of_hope_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:pikmin/forest_of_hope_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.pikmin.forest_of_hope": {
+		"sounds":[
+			{
+				"name":"ssbrc:pikmin/forest_of_hope",
+				"stream":true
+			}
+		]
+	},
+	"music.pikmin.garden_of_hope_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:pikmin/garden_of_hope_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.pikmin.garden_of_hope": {
+		"sounds":[
+			{
+				"name":"ssbrc:pikmin/garden_of_hope",
+				"stream":true
+			}
+		]
+	},
+
+	"music.pokemon.battle_lets_go_pikachu_eevee_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:pokemon/battle_lets_go_pikachu_eevee_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.pokemon.battle_lets_go_pikachu_eevee": {
+		"sounds":[
+			{
+				"name":"ssbrc:pokemon/battle_lets_go_pikachu_eevee",
+				"stream":true
+			}
+		]
+	},
+	"music.pokemon.dialga_and_palkia_battle_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:pokemon/dialga_and_palkia_battle_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.pokemon.dialga_and_palkia_battle": {
+		"sounds":[
+			{
+				"name":"ssbrc:pokemon/dialga_and_palkia_battle",
+				"stream":true
+			}
+		]
+	},
+	"music.pokemon.pokemon_gold_pokemon_silver_medley_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:pokemon/pokemon_gold_pokemon_silver_medley_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.pokemon.pokemon_gold_pokemon_silver_medley": {
+		"sounds":[
+			{
+				"name":"ssbrc:pokemon/pokemon_gold_pokemon_silver_medley",
+				"stream":true
+			}
+		]
+	},
+	"music.pokemon.road_to_viridian_city_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:pokemon/road_to_viridian_city_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.pokemon.road_to_viridian_city": {
+		"sounds":[
+			{
+				"name":"ssbrc:pokemon/road_to_viridian_city",
+				"stream":true
+			}
+		]
+	},
+	"music.pokemon.team_galactic_battle_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:pokemon/team_galactic_battle_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.pokemon.team_galactic_battle": {
+		"sounds":[
+			{
+				"name":"ssbrc:pokemon/team_galactic_battle",
+				"stream":true
+			}
+		]
+	},
+	"music.pokemon.trainer_battle_pokemon_gold_pokemon_silver_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:pokemon/trainer_battle_pokemon_gold_pokemon_silver_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.pokemon.trainer_battle_pokemon_gold_pokemon_silver": {
+		"sounds":[
+			{
+				"name":"ssbrc:pokemon/trainer_battle_pokemon_gold_pokemon_silver",
+				"stream":true
+			}
+		]
+	},
+	"music.pokemon.victory_road_ruby_sapphire_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:pokemon/victory_road_ruby_sapphire_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.pokemon.victory_road_ruby_sapphire": {
+		"sounds":[
+			{
+				"name":"ssbrc:pokemon/victory_road_ruby_sapphire",
+				"stream":true
+			}
+		]
+	},
+	"music.pokemon.vs_champion_steven_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:pokemon/vs_champion_steven_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.pokemon.vs_champion_steven": {
+		"sounds":[
+			{
+				"name":"ssbrc:pokemon/vs_champion_steven",
+				"stream":true
+			}
+		]
+	},
+
+	"music.shovel_knight.hitting_close_to_home": {
+		"sounds":[
+			{
+				"name":"ssbrc:shovel_knight/hitting_close_to_home",
+				"stream":true
+			}
+		]
+	},
+	"music.shovel_knight.the_fateful_return": {
+		"sounds":[
+			{
+				"name":"ssbrc:shovel_knight/the_fateful_return",
+				"stream":true
+			}
+		]
+	},
+
+	"music.sonic_the_hedgehog.sonic_adventure_2_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:sonic_the_hedgehog/sonic_adventure_2_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.sonic_the_hedgehog.sonic_adventure_2": {
+		"sounds":[
+			{
+				"name":"ssbrc:sonic_the_hedgehog/sonic_adventure_2",
+				"stream":true
+			}
+		]
+	},
+	"music.sonic_the_hedgehog.sonic_mania_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:sonic_the_hedgehog/sonic_mania_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.sonic_the_hedgehog.sonic_mania": {
+		"sounds":[
+			{
+				"name":"ssbrc:sonic_the_hedgehog/sonic_mania",
+				"stream":true
+			}
+		]
+	},
+
+	"music.star_fox.area_6_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:star_fox/area_6_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.star_fox.area_6": {
+		"sounds":[
+			{
+				"name":"ssbrc:star_fox/area_6",
+				"stream":true
+			}
+		]
+	},
+	"music.star_fox.star_wolf_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:star_fox/star_wolf_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.star_fox.star_wolf": {
+		"sounds":[
+			{
+				"name":"ssbrc:star_fox/star_wolf",
+				"stream":true
+			}
+		]
+	},
+
+	"music.street_fighter.ryu_stage_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:street_fighter/ryu_stage_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.street_fighter.ryu_stage": {
+		"sounds":[
+			{
+				"name":"ssbrc:street_fighter/ryu_stage",
+				"stream":true
+			}
+		]
+	},
+	"music.street_fighter.street_fighter_4_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:street_fighter/street_fighter_4_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.street_fighter.street_fighter_4": {
+		"sounds":[
+			{
+				"name":"ssbrc:street_fighter/street_fighter_4",
+				"stream":true
+			}
+		]
+	},
+
+	"music.super_mario_bros.bob_omb_battlefield_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:super_mario_bros/bob_omb_battlefield_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.super_mario_bros.bob_omb_battlefield": {
+		"sounds":[
+			{
+				"name":"ssbrc:super_mario_bros/bob_omb_battlefield",
+				"stream":true
+			}
+		]
+	},
+	"music.super_mario_bros.bowsers_lava_lair_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:super_mario_bros/bowsers_lava_lair_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.super_mario_bros.bowsers_lava_lair": {
+		"sounds":[
+			{
+				"name":"ssbrc:super_mario_bros/bowsers_lava_lair",
+				"stream":true
+			}
+		]
+	},
+	"music.super_mario_bros.chase_giga_bowser_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:super_mario_bros/chase_giga_bowser_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.super_mario_bros.chase_giga_bowser": {
+		"sounds":[
+			{
+				"name":"ssbrc:super_mario_bros/chase_giga_bowser",
+				"stream":true
+			}
+		]
+	},
+	"music.super_mario_bros.dark_hallways_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:super_mario_bros/dark_hallways_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.super_mario_bros.dark_hallways": {
+		"sounds":[
+			{
+				"name":"ssbrc:super_mario_bros/dark_hallways",
+				"stream":true
+			}
+		]
+	},
+	"music.super_mario_bros.luigis_mansion_theme_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:super_mario_bros/luigis_mansion_theme_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.super_mario_bros.luigis_mansion_theme": {
+		"sounds":[
+			{
+				"name":"ssbrc:super_mario_bros/luigis_mansion_theme",
+				"stream":true
+			}
+		]
+	},
+	"music.super_mario_bros.mario_paint_medley_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:super_mario_bros/mario_paint_medley_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.super_mario_bros.mario_paint_medley": {
+		"sounds":[
+			{
+				"name":"ssbrc:super_mario_bros/mario_paint_medley",
+				"stream":true
+			}
+		]
+	},
+	"music.super_mario_bros.super_mario_bros_main_theme_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:super_mario_bros/super_mario_bros_main_theme_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.super_mario_bros.super_mario_bros_main_theme": {
+		"sounds":[
+			{
+				"name":"ssbrc:super_mario_bros/super_mario_bros_main_theme",
+				"stream":true
+			}
+		]
+	},
+
+	"music.super_smash_bros.final_destination_melee_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:super_smash_bros/final_destination_melee_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.super_smash_bros.final_destination_melee": {
+		"sounds":[
+			{
+				"name":"ssbrc:super_smash_bros/final_destination_melee",
+				"stream":true
+			}
+		]
+	},
+	"music.super_smash_bros.master_hand_fight_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:super_smash_bros/master_hand_fight_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.super_smash_bros.master_hand_fight": {
+		"sounds":[
+			{
+				"name":"ssbrc:super_smash_bros/master_hand_fight",
+				"stream":true
+			}
+		]
+	},
+	"music.super_smash_bros.target_smash_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:super_smash_bros/target_smash_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.super_smash_bros.target_smash": {
+		"sounds":[
+			{
+				"name":"ssbrc:super_smash_bros/target_smash",
+				"stream":true
+			}
+		]
+	},
+
+	"music.the_legend_of_zelda.ballad_of_the_goddess_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:the_legend_of_zelda/ballad_of_the_goddess_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.the_legend_of_zelda.ballad_of_the_goddess": {
+		"sounds":[
+			{
+				"name":"ssbrc:the_legend_of_zelda/ballad_of_the_goddess",
+				"stream":true
+			}
+		]
+	},
+	"music.the_legend_of_zelda.hyrule_castle_theme_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:the_legend_of_zelda/hyrule_castle_theme_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.the_legend_of_zelda.hyrule_castle_theme": {
+		"sounds":[
+			{
+				"name":"ssbrc:the_legend_of_zelda/hyrule_castle_theme",
+				"stream":true
+			}
+		]
+	},
+	"music.the_legend_of_zelda.kass_theme_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:the_legend_of_zelda/kass_theme_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.the_legend_of_zelda.kass_theme": {
+		"sounds":[
+			{
+				"name":"ssbrc:the_legend_of_zelda/kass_theme",
+				"stream":true
+			}
+		]
+	},
+	"music.the_legend_of_zelda.legend_of_zelda_main_theme_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:the_legend_of_zelda/legend_of_zelda_main_theme_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.the_legend_of_zelda.legend_of_zelda_main_theme": {
+		"sounds":[
+			{
+				"name":"ssbrc:the_legend_of_zelda/legend_of_zelda_main_theme",
+				"stream":true
+			}
+		]
+	},
+	"music.the_legend_of_zelda.rescue_operation_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:the_legend_of_zelda/rescue_operation_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.the_legend_of_zelda.rescue_operation": {
+		"sounds":[
+			{
+				"name":"ssbrc:the_legend_of_zelda/rescue_operation",
+				"stream":true
+			}
+		]
+	},
+	"music.the_legend_of_zelda.termina_field_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:the_legend_of_zelda/termina_field_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.the_legend_of_zelda.termina_field": {
+		"sounds":[
+			{
+				"name":"ssbrc:the_legend_of_zelda/termina_field",
+				"stream":true
+			}
+		]
+	},
+
+	"music.misc.aquos_arena": {
+		"sounds":[
+			{
+				"name":"ssbrc:misc/aquos_arena",
+				"stream":true
+			}
+		]
+	},
+	"music.misc.draconus_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:misc/draconus_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.misc.draconus": {
+		"sounds":[
+			{
+				"name":"ssbrc:misc/draconus",
+				"stream":true
+			}
+		]
+	},
+	"music.misc.nintendo_land_medley": {
+		"sounds":[
+			{
+				"name":"ssbrc:misc/nintendo_land_medley",
+				"stream":true
+			}
+		]
+	},
+	"music.misc.rock_solid": {
+		"sounds":[
+			{
+				"name":"ssbrc:misc/rock_solid",
+				"stream":true
+			}
+		]
+	},
+	"music.misc.the_eel_deal_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:misc/the_eel_deal_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.misc.the_eel_deal": {
+		"sounds":[
+			{
+				"name":"ssbrc:misc/the_eel_deal",
+				"stream":true
+			}
+		]
+	},
+	"music.misc.zybex_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:misc/zybex_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.misc.zybex": {
+		"sounds":[
+			{
+				"name":"ssbrc:misc/zybex",
 				"stream":true
 			}
 		]
