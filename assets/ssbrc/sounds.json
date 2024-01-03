@@ -318,6 +318,22 @@
 			}
 		]
 	},
+	"music.fire_emblem.winning_road_roys_hope_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:fire_emblem/winning_road_roys_hope_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.fire_emblem.winning_road_roys_hope": {
+		"sounds":[
+			{
+				"name":"ssbrc:fire_emblem/winning_road_roys_hope",
+				"stream":true
+			}
+		]
+	},
 	"music.fire_emblem.with_milas_divine_protection_intro": {
 		"sounds":[
 			{
@@ -455,6 +471,22 @@
 		"sounds":[
 			{
 				"name":"ssbrc:kirby/checker_knights",
+				"stream":true
+			}
+		]
+	},
+	"music.kirby.king_dededes_theme_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:kirby/king_dededes_theme_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.kirby.king_dededes_theme": {
+		"sounds":[
+			{
+				"name":"ssbrc:kirby/king_dededes_theme",
 				"stream":true
 			}
 		]
@@ -745,18 +777,10 @@
 			}
 		]
 	},
-	"music.persona.mass_destruction_dual_mix_part_1": {
+	"music.persona.mass_destruction_dual_mix": {
 		"sounds":[
 			{
-				"name":"ssbrc:persona/mass_destruction_dual_mix_part_1",
-				"stream":true
-			}
-		]
-	},
-	"music.persona.mass_destruction_dual_mix_part_2": {
-		"sounds":[
-			{
-				"name":"ssbrc:persona/mass_destruction_dual_mix_part_2",
+				"name":"ssbrc:persona/mass_destruction_dual_mix",
 				"stream":true
 			}
 		]
@@ -1262,6 +1286,22 @@
 		"sounds":[
 			{
 				"name":"ssbrc:the_legend_of_zelda/ballad_of_the_goddess",
+				"stream":true
+			}
+		]
+	},
+	"music.the_legend_of_zelda.dragon_roost_island_intro": {
+		"sounds":[
+			{
+				"name":"ssbrc:the_legend_of_zelda/dragon_roost_island_intro",
+				"stream":true
+			}
+		]
+	},
+	"music.the_legend_of_zelda.dragon_roost_island": {
+		"sounds":[
+			{
+				"name":"ssbrc:the_legend_of_zelda/dragon_roost_island",
 				"stream":true
 			}
 		]
