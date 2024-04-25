@@ -1095,18 +1095,18 @@
 			}
 		]
 	},
-	"music.street_fighter.street_fighter_4_intro": {
+	"music.street_fighter.street_fighter_4_intro_intro": {
 		"sounds":[
 			{
-				"name":"ssbrc:street_fighter/street_fighter_4_intro",
+				"name":"ssbrc:street_fighter/street_fighter_4_intro_intro",
 				"stream":true
 			}
 		]
 	},
-	"music.street_fighter.street_fighter_4": {
+	"music.street_fighter.street_fighter_4_intro": {
 		"sounds":[
 			{
-				"name":"ssbrc:street_fighter/street_fighter_4",
+				"name":"ssbrc:street_fighter/street_fighter_4_intro",
 				"stream":true
 			}
 		]
