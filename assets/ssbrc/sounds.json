@@ -1013,34 +1013,34 @@
 		]
 	},
 
-	"music.sonic_the_hedgehog.sonic_adventure_2_intro": {
+	"music.sonic_the_hedgehog.green_hill_zone_sonic_adventure_2_intro": {
 		"sounds":[
 			{
-				"name":"ssbrc:sonic_the_hedgehog/sonic_adventure_2_intro",
+				"name":"ssbrc:sonic_the_hedgehog/green_hill_zone_sonic_adventure_2_intro",
 				"stream":true
 			}
 		]
 	},
-	"music.sonic_the_hedgehog.sonic_adventure_2": {
+	"music.sonic_the_hedgehog.green_hill_zone_sonic_adventure_2": {
 		"sounds":[
 			{
-				"name":"ssbrc:sonic_the_hedgehog/sonic_adventure_2",
+				"name":"ssbrc:sonic_the_hedgehog/green_hill_zone_sonic_adventure_2",
 				"stream":true
 			}
 		]
 	},
-	"music.sonic_the_hedgehog.sonic_mania_intro": {
+	"music.sonic_the_hedgehog.green_hill_zone_sonic_mania_intro": {
 		"sounds":[
 			{
-				"name":"ssbrc:sonic_the_hedgehog/sonic_mania_intro",
+				"name":"ssbrc:sonic_the_hedgehog/green_hill_zone_sonic_mania_intro",
 				"stream":true
 			}
 		]
 	},
-	"music.sonic_the_hedgehog.sonic_mania": {
+	"music.sonic_the_hedgehog.green_hill_zone_sonic_mania": {
 		"sounds":[
 			{
-				"name":"ssbrc:sonic_the_hedgehog/sonic_mania",
+				"name":"ssbrc:sonic_the_hedgehog/green_hill_zone_sonic_mania",
 				"stream":true
 			}
 		]
